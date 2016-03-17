@@ -13,3 +13,11 @@ RUN pip install -r test-requirements.txt
 
 ADD . /home/docker-py
 RUN pip install .
+
+
+
+
+
+
+
+
